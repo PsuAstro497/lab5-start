@@ -2,6 +2,7 @@
 
 ## Exercise 1:  Model Building III:  Bayesian Inference & Probabilistic Programming Languages
 - Work through ex1.jl  (a Pluto notebook)
+- Work through ex2.jl  (a Pluto notebook)
 
 ## Goals
 In this lab, students will learn to:
